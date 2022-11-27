@@ -46,5 +46,5 @@ To get the chat ID, open the following URL in your web-browser: https://api.tele
 ### Edit the Batch script
 Download the batch file
 Open the file using an editor e.g. Notepad
->Then replace <Bot token> with the token obtained from Bot Father and 
->replace the <chat_id> with obatined chat id
+>Then replace <Bot_token> with the token obtained from Bot Father.
+>Replace the <chat_id> with obatined chat id
